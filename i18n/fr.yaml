@@ -1,4 +1,5 @@
 link:
+  bitwarden: Bitwarden
   clickup: ClickUp
   cloudflare: Cloudflare
   codepen: CodePen
@@ -6,12 +7,13 @@ link:
   discord: Discord
   dribbble: Dribbble
   email: Email
-  gmail: GMail
+  gmail: Gmail
   facebook: Facebook
   foursquare: Foursquare
   github: GitHub
   gitlab: GitLab
   instagram: Instagram
+  justworks: Justworks
   keybase: Keybase
   lastfm: Last.fm
   link: "Site internet"

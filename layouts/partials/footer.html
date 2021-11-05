@@ -16,7 +16,7 @@
         {{ $hugo := printf `<a class="hover:underline hover:underline-primary-300 hover:text-primary-400"
           href="https://gohugo.io/" target="_blank" rel="noopener noreferrer">Hugo</a>`
         }}
-        {{ $lynx := printf `<a class="hover:underline hover:underline-primary-300 hover:text-primary-400" href="https://git.io/hugo-lynx" target="_blank" rel="noopener noreferrer">Lynx</a>` }}
+        {{ $lynx := printf `<a class="hover:underline hover:underline-primary-300 hover:text-primary-400" href="https://github.com/Allar/lynx" target="_blank" rel="noopener noreferrer">Lynx</a>` }}
         {{ i18n "footer.powered_by" (dict "Hugo" $hugo "Lynx" $lynx) | safeHTML }}
       </p>
     {{ end }}

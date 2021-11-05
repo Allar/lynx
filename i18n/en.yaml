@@ -1,9 +1,12 @@
 link:
+  clickup: ClickUp
+  cloudflare: Cloudflare
   codepen: CodePen
   dev: DEV
   discord: Discord
   dribbble: Dribbble
   email: Email
+  gmail: Gmail
   facebook: Facebook
   foursquare: Foursquare
   github: GitHub
@@ -15,6 +18,7 @@ link:
   linkedin: LinkedIn
   mastodon: Mastodon
   medium: Medium
+  notion: Notion
   orcid: ORCiD
   pinterest: Pinterest
   reddit: Reddit
